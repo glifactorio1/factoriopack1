@@ -1,0 +1,464 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "blueprint-string",
+            "enabled": "true"
+        },
+        {
+            "name": "FactorioMaps",
+            "enabled": "true"
+        },
+        {
+            "name": "TheFatController",
+            "enabled": "true"
+        },
+        {
+            "name": "what-is-it-used-for",
+            "enabled": "true"
+        },
+        {
+            "name": "015_like_infinite_research",
+            "enabled": "true"
+        },
+        {
+            "name": "Additional-Turret",
+            "enabled": "true"
+        },
+        {
+            "name": "Advanced-Drills",
+            "enabled": "true"
+        },
+        {
+            "name": "Advanced-Electric",
+            "enabled": "true"
+        },
+        {
+            "name": "Advanced-Logistics",
+            "enabled": "true"
+        },
+        {
+            "name": "AdvancedEndlessResources",
+            "enabled": "true"
+        },
+        {
+            "name": "AfraidOfTheDark",
+            "enabled": "true"
+        },
+        {
+            "name": "air-filtering",
+            "enabled": "true"
+        },
+        {
+            "name": "AllFluids",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "AutoTrash",
+            "enabled": "true"
+        },
+        {
+            "name": "beltSorter",
+            "enabled": "true"
+        },
+        {
+            "name": "BetterFluidColors",
+            "enabled": "true"
+        },
+        {
+            "name": "BigBags",
+            "enabled": "true"
+        },
+        {
+            "name": "BlackMarket",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobinserters",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "Chainsaw",
+            "enabled": "true"
+        },
+        {
+            "name": "clock",
+            "enabled": "true"
+        },
+        {
+            "name": "color-coding",
+            "enabled": "true"
+        },
+        {
+            "name": "Concrete_Lamppost",
+            "enabled": "true"
+        },
+        {
+            "name": "Crafting_Speed_Research",
+            "enabled": "true"
+        },
+        {
+            "name": "DayNightExtender",
+            "enabled": "true"
+        },
+        {
+            "name": "DefenseUpdate",
+            "enabled": "true"
+        },
+        {
+            "name": "eco-trees",
+            "enabled": "true"
+        },
+        {
+            "name": "Electric Furnaces",
+            "enabled": "true"
+        },
+        {
+            "name": "EmdotHUDCombinator",
+            "enabled": "true"
+        },
+        {
+            "name": "EvenMoreLight",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "FactorioExtended-Core",
+            "enabled": "true"
+        },
+        {
+            "name": "Factorissimo",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "filtered-deconstruction-planner",
+            "enabled": "true"
+        },
+        {
+            "name": "FLAN",
+            "enabled": "true"
+        },
+        {
+            "name": "Flare",
+            "enabled": "true"
+        },
+        {
+            "name": "Flare Stack",
+            "enabled": "true"
+        },
+        {
+            "name": "Flow Control",
+            "enabled": "true"
+        },
+        {
+            "name": "Force Fields",
+            "enabled": "true"
+        },
+        {
+            "name": "Foreman",
+            "enabled": "true"
+        },
+        {
+            "name": "IconFix",
+            "enabled": "true"
+        },
+        {
+            "name": "ItemCount",
+            "enabled": "true"
+        },
+        {
+            "name": "Landfill",
+            "enabled": "true"
+        },
+        {
+            "name": "long-reach",
+            "enabled": "true"
+        },
+        {
+            "name": "MeteVehicles",
+            "enabled": "true"
+        },
+        {
+            "name": "mini-machines",
+            "enabled": "true"
+        },
+        {
+            "name": "MoreLogisticsSlots",
+            "enabled": "true"
+        },
+        {
+            "name": "More_Floors",
+            "enabled": "true"
+        },
+        {
+            "name": "NIN_AmbientMusicTracks",
+            "enabled": "true"
+        },
+        {
+            "name": "nixie-tubes",
+            "enabled": "true"
+        },
+        {
+            "name": "NPBees",
+            "enabled": "true"
+        },
+        {
+            "name": "NPUtils",
+            "enabled": "true"
+        },
+        {
+            "name": "Nucular",
+            "enabled": "true"
+        },
+        {
+            "name": "original-music-hd",
+            "enabled": "true"
+        },
+        {
+            "name": "pollution-detector",
+            "enabled": "true"
+        },
+        {
+            "name": "Power Armor MK3",
+            "enabled": "true"
+        },
+        {
+            "name": "PowerUpdate",
+            "enabled": "true"
+        },
+        {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "replicators",
+            "enabled": "true"
+        },
+        {
+            "name": "ShuttleTrain",
+            "enabled": "true"
+        },
+        {
+            "name": "Side Inserters",
+            "enabled": "true"
+        },
+        {
+            "name": "Signposts",
+            "enabled": "true"
+        },
+        {
+            "name": "Squeak Through",
+            "enabled": "true"
+        },
+        {
+            "name": "StickyNotes",
+            "enabled": "true"
+        },
+        {
+            "name": "tanks_for_bob",
+            "enabled": "true"
+        },
+        {
+            "name": "Teleportation",
+            "enabled": "true"
+        },
+        {
+            "name": "textplates",
+            "enabled": "true"
+        },
+        {
+            "name": "TrainSpeedLimit",
+            "enabled": "true"
+        },
+        {
+            "name": "upgrade-planner",
+            "enabled": "true"
+        },
+        {
+            "name": "VehicleSnap",
+            "enabled": "true"
+        },
+        {
+            "name": "Warehousing",
+            "enabled": "true"
+        },
+        {
+            "name": "YARM",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_railway",
+            "enabled": "true"
+        },
+        {
+            "name": "Yuoki",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "bobvehicleequipment",
+            "enabled": "true"
+        },
+        {
+            "name": "FactorioExtended-Equipment",
+            "enabled": "true"
+        },
+        {
+            "name": "FactorioExtended-Logistics",
+            "enabled": "true"
+        },
+        {
+            "name": "FactorioExtended-Machines",
+            "enabled": "true"
+        },
+        {
+            "name": "FactorioExtended-Power",
+            "enabled": "true"
+        },
+        {
+            "name": "FactorioExtended-Transport",
+            "enabled": "true"
+        },
+        {
+            "name": "FactorioExtended-Weaponry",
+            "enabled": "true"
+        },
+        {
+            "name": "Misanthrope",
+            "enabled": "true"
+        },
+        {
+            "name": "Reactors",
+            "enabled": "true"
+        },
+        {
+            "name": "SmartTrains",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_engines",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "false"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobgreenhouse",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobrevamp",
+            "enabled": "true"
+        },
+        {
+            "name": "GDIW",
+            "enabled": "true"
+        },
+        {
+            "name": "SpaceBook",
+            "enabled": "true"
+        },
+        {
+            "name": "usefulbyproducts",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "Bio_Industries",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics_gfxtweak",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "flowcontrolbobs",
+            "enabled": "true"
+        },
+        {
+            "name": "CMHMod",
+            "enabled": "true"
+        },
+        {
+            "name": "Orbital Ion Cannon",
+            "enabled": "true"
+        },
+        {
+            "name": "ShinyBob",
+            "enabled": "true"
+        },
+        {
+            "name": "Satellite Uplink Station",
+            "enabled": "true"
+        }
+    ]
+}
