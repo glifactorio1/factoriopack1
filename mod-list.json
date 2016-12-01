@@ -1,6 +1,10 @@
 {
     "mods": [
         {
+            "name": "autocraft",
+            "enabled": "true"
+        },
+        {
             "name": "base",
             "enabled": "true"
         },
@@ -17,11 +21,19 @@
             "enabled": "true"
         },
         {
+            "name": "VehiclesEquipement",
+            "enabled": "true"
+        },
+        {
             "name": "what-is-it-used-for",
             "enabled": "true"
         },
         {
             "name": "015_like_infinite_research",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_core",
             "enabled": "true"
         },
         {
@@ -62,6 +74,10 @@
         },
         {
             "name": "AutoTrash",
+            "enabled": "true"
+        },
+        {
+            "name": "beltplanner",
             "enabled": "true"
         },
         {
@@ -157,6 +173,10 @@
             "enabled": "true"
         },
         {
+            "name": "Fastforward-Start",
+            "enabled": "true"
+        },
+        {
             "name": "filtered-deconstruction-planner",
             "enabled": "true"
         },
@@ -201,6 +221,10 @@
             "enabled": "true"
         },
         {
+            "name": "manual-inventory-sort",
+            "enabled": "true"
+        },
+        {
             "name": "MeteVehicles",
             "enabled": "true"
         },
@@ -217,10 +241,6 @@
             "enabled": "true"
         },
         {
-            "name": "NIN_AmbientMusicTracks",
-            "enabled": "true"
-        },
-        {
             "name": "nixie-tubes",
             "enabled": "true"
         },
@@ -234,10 +254,6 @@
         },
         {
             "name": "Nucular",
-            "enabled": "true"
-        },
-        {
-            "name": "original-music-hd",
             "enabled": "true"
         },
         {
@@ -293,6 +309,18 @@
             "enabled": "true"
         },
         {
+            "name": "TimeTools",
+            "enabled": "true"
+        },
+        {
+            "name": "TombStones",
+            "enabled": "true"
+        },
+        {
+            "name": "Torches",
+            "enabled": "true"
+        },
+        {
             "name": "TrainSpeedLimit",
             "enabled": "true"
         },
@@ -301,7 +329,19 @@
             "enabled": "true"
         },
         {
+            "name": "VehicleGrids",
+            "enabled": "true"
+        },
+        {
             "name": "VehicleSnap",
+            "enabled": "true"
+        },
+        {
+            "name": "Vehicle Wagon",
+            "enabled": "true"
+        },
+        {
+            "name": "Vehicle_Radar",
             "enabled": "true"
         },
         {
@@ -318,6 +358,50 @@
         },
         {
             "name": "Yuoki",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_automatization",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_battlefield",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_decoration",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_energy",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_logistic",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_mining",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_module",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_ores",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_resources",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_transport",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_vehicle",
             "enabled": "true"
         },
         {
@@ -373,6 +457,14 @@
             "enabled": "true"
         },
         {
+            "name": "z_yira_american",
+            "enabled": "true"
+        },
+        {
+            "name": "z_yira_UP",
+            "enabled": "true"
+        },
+        {
             "name": "bobplates",
             "enabled": "true"
         },
@@ -425,10 +517,6 @@
             "enabled": "true"
         },
         {
-            "name": "Bio_Industries",
-            "enabled": "true"
-        },
-        {
             "name": "bobelectronics_gfxtweak",
             "enabled": "true"
         },
@@ -442,6 +530,10 @@
         },
         {
             "name": "flowcontrolbobs",
+            "enabled": "true"
+        },
+        {
+            "name": "Upgrade",
             "enabled": "true"
         },
         {
