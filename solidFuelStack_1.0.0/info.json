@@ -1,0 +1,9 @@
+{
+  "name": "solidFuelStack",
+  "version": "1.0.0",
+  "title": "Solid Fuel Stack",
+  "author": "Steejo",
+  "homepage": "www.youtube.com/steejo",
+  "dependencies": ["base"],
+  "description": "Allows the stacking of solid fuel blocks to 100"
+}

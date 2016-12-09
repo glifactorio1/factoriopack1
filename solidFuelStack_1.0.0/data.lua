@@ -1,0 +1,1 @@
+data.raw.item["solid-fuel"].stack_size = 100

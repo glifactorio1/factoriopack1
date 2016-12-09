@@ -1,0 +1,148 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "advanced-logistics-system",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "bling-floor",
+            "enabled": "true"
+        },
+        {
+            "name": "blueprint-string",
+            "enabled": "true"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "clock",
+            "enabled": "true"
+        },
+        {
+            "name": "DayNightExtender",
+            "enabled": "true"
+        },
+        {
+            "name": "Expanded_Robot_Tech",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "FastFilterFill",
+            "enabled": "true"
+        },
+        {
+            "name": "Fishing Pole",
+            "enabled": "true"
+        },
+        {
+            "name": "Landfill",
+            "enabled": "true"
+        },
+        {
+            "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "long-reach",
+            "enabled": "true"
+        },
+        {
+            "name": "MoreLight",
+            "enabled": "true"
+        },
+        {
+            "name": "PocketRepair",
+            "enabled": "true"
+        },
+        {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "true"
+        },
+        {
+            "name": "SmartTrains",
+            "enabled": "true"
+        },
+        {
+            "name": "solidFuelStack",
+            "enabled": "true"
+        },
+        {
+            "name": "TheFatController",
+            "enabled": "true"
+        },
+        {
+            "name": "turrets-range",
+            "enabled": "true"
+        },
+        {
+            "name": "upgrade-planner",
+            "enabled": "true"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+
+{
+  "name": "DayNightExtender",
+  "version": "1.1.0",
+  "title": "DayNightExtender",
+  "author": "Original: Dark - Updated: Vizzy",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=120&t=14509",
+  "description": "Allows individual customisation of the length of day and/or night.",
+  "dependencies": ["base >= 0.12.0"]
+}
