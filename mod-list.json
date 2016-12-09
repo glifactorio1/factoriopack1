@@ -1,0 +1,204 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "blueprint-string",
+            "enabled": "true"
+        },
+        {
+            "name": "Misanthrope",
+            "enabled": "true"
+        },
+        {
+            "name": "TheFatController",
+            "enabled": "true"
+        },
+        {
+            "name": "VehiclesEquipement",
+            "enabled": "true"
+        },
+        {
+            "name": "what-is-it-used-for",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_core",
+            "enabled": "true"
+        },
+        {
+            "name": "AdvancedEndlessResources",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "BlackMarket",
+            "enabled": "true"
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "Electric Furnaces",
+            "enabled": "true"
+        },
+        {
+            "name": "Factorissimo",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "Fastforward-Start",
+            "enabled": "true"
+        },
+        {
+            "name": "FLAN",
+            "enabled": "true"
+        },
+        {
+            "name": "Foreman",
+            "enabled": "true"
+        },
+        {
+            "name": "GDIW",
+            "enabled": "true"
+        },
+        {
+            "name": "ItemCount",
+            "enabled": "true"
+        },
+        {
+            "name": "Landfill",
+            "enabled": "true"
+        },
+        {
+            "name": "MeteVehicles",
+            "enabled": "true"
+        },
+        {
+            "name": "mini-machines",
+            "enabled": "true"
+        },
+        {
+            "name": "Reactors",
+            "enabled": "true"
+        },
+        {
+            "name": "replicators",
+            "enabled": "true"
+        },
+        {
+            "name": "StickyNotes",
+            "enabled": "true"
+        },
+        {
+            "name": "textplates",
+            "enabled": "true"
+        },
+        {
+            "name": "TimeTools",
+            "enabled": "true"
+        },
+        {
+            "name": "TombStones",
+            "enabled": "true"
+        },
+        {
+            "name": "VehicleGrids",
+            "enabled": "true"
+        },
+        {
+            "name": "VehicleSnap",
+            "enabled": "true"
+        },
+        {
+            "name": "Vehicle Wagon",
+            "enabled": "true"
+        },
+        {
+            "name": "Vehicle_Radar",
+            "enabled": "true"
+        },
+        {
+            "name": "YARM",
+            "enabled": "true"
+        },
+        {
+            "name": "Yuoki",
+            "enabled": "true"
+        },
+        {
+            "name": "z_yira_american",
+            "enabled": "true"
+        },
+        {
+            "name": "z_yira_UP",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_automatization",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_battlefield",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_decoration",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_energy",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_logistic",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_mining",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_module",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_ores",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_resources",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_transport",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_vehicle",
+            "enabled": "true"
+        },
+        {
+            "name": "SpaceBook",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_engines",
+            "enabled": "true"
+        }
+    ]
+}
