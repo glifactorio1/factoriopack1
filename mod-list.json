@@ -1,0 +1,164 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "015_like_infinite_research",
+            "enabled": "false"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobinserters",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "boblocale",
+            "enabled": "true"
+        },
+        {
+            "name": "Crafting_Speed_Research",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "Flow Control",
+            "enabled": "true"
+        },
+        {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobvehicleequipment",
+            "enabled": "true"
+        },
+        {
+            "name": "Reactors",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "NuclearRobots",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "angelsrefining",
+            "enabled": "false"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobgreenhouse",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobrevamp",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "angelsaddons-oresilos",
+            "enabled": "false"
+        },
+        {
+            "name": "angelsaddons-warehouses",
+            "enabled": "false"
+        },
+        {
+            "name": "angelspetrochem",
+            "enabled": "false"
+        },
+        {
+            "name": "bobelectronics_gfxtweak",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "angelsaddons-pressuretanks",
+            "enabled": "false"
+        },
+        {
+            "name": "angelsbioprocessing",
+            "enabled": "false"
+        },
+        {
+            "name": "angelsinfiniteores",
+            "enabled": "false"
+        },
+        {
+            "name": "angelssmelting",
+            "enabled": "false"
+        },
+        {
+            "name": "LateUpgrades",
+            "enabled": "true"
+        },
+        {
+            "name": "Orbital Ion Cannon",
+            "enabled": "true"
+        }
+    ]
+}
