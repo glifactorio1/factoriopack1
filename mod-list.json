@@ -1,0 +1,192 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "TheFatController",
+            "enabled": "true"
+        },
+        {
+            "name": "AutoDeconstruct",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobinserters",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "Crafting_Speed_Research",
+            "enabled": "true"
+        },
+        {
+            "name": "Enhanced_Map_Colors",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "Flow Control",
+            "enabled": "true"
+        },
+        {
+            "name": "Foreman",
+            "enabled": "true"
+        },
+        {
+            "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "launch-control",
+            "enabled": "true"
+        },
+        {
+            "name": "long-reach",
+            "enabled": "true"
+        },
+        {
+            "name": "Nucular",
+            "enabled": "true"
+        },
+        {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "Squeak Through",
+            "enabled": "true"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "upgrade-planner",
+            "enabled": "true"
+        },
+        {
+            "name": "Warehousing",
+            "enabled": "true"
+        },
+        {
+            "name": "YARM",
+            "enabled": "true"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobvehicleequipment",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "angelsrefining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobgreenhouse",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobrevamp",
+            "enabled": "true"
+        },
+        {
+            "name": "Bio_Industries",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "LateUpgrades",
+            "enabled": "true"
+        },
+        {
+            "name": "angelspetrochem",
+            "enabled": "true"
+        },
+        {
+            "name": "angelsaddons-pressuretanks",
+            "enabled": "true"
+        },
+        {
+            "name": "angelsbioprocessing",
+            "enabled": "true"
+        },
+        {
+            "name": "angelsinfiniteores",
+            "enabled": "true"
+        },
+        {
+            "name": "angelssmelting",
+            "enabled": "true"
+        }
+    ]
+}
