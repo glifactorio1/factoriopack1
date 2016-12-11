@@ -29,6 +29,18 @@
             "enabled": "true"
         },
         {
+            "name": "Advanced-Drills",
+            "enabled": "true"
+        },
+        {
+            "name": "Advanced-Electric",
+            "enabled": "true"
+        },
+        {
+            "name": "Advanced-Logistics",
+            "enabled": "true"
+        },
+        {
             "name": "AdvancedEndlessResources",
             "enabled": "true"
         },
@@ -45,7 +57,15 @@
             "enabled": "true"
         },
         {
+            "name": "bobinserters",
+            "enabled": "true"
+        },
+        {
             "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "Crafting_Speed_Research",
             "enabled": "true"
         },
         {
@@ -98,6 +118,10 @@
         },
         {
             "name": "replicators",
+            "enabled": "true"
+        },
+        {
+            "name": "Squeak Through",
             "enabled": "true"
         },
         {
