@@ -1,6 +1,10 @@
 {
     "mods": [
         {
+            "name": "autocraft",
+            "enabled": "true"
+        },
+        {
             "name": "base",
             "enabled": "true"
         },
@@ -10,6 +14,10 @@
         },
         {
             "name": "Misanthrope",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
             "enabled": "true"
         },
         {
@@ -25,7 +33,43 @@
             "enabled": "true"
         },
         {
+            "name": "015_like_infinite_research",
+            "enabled": "true"
+        },
+        {
             "name": "5dim_core",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-signals",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-chaingunner",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-flame-tumbler",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-hauler",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-laser-tank",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-miner",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-zones",
+            "enabled": "true"
+        },
+        {
+            "name": "Additional-Turret",
             "enabled": "true"
         },
         {
@@ -41,11 +85,19 @@
             "enabled": "true"
         },
         {
-            "name": "AdvancedEndlessResources",
+            "name": "AfraidOfTheDark",
+            "enabled": "true"
+        },
+        {
+            "name": "air-filtering",
             "enabled": "true"
         },
         {
             "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "AllFluids",
             "enabled": "true"
         },
         {
@@ -65,7 +117,19 @@
             "enabled": "true"
         },
         {
+            "name": "compressor",
+            "enabled": "true"
+        },
+        {
             "name": "Crafting_Speed_Research",
+            "enabled": "true"
+        },
+        {
+            "name": "eco-trees",
+            "enabled": "true"
+        },
+        {
+            "name": "electric-vehicles-lib",
             "enabled": "true"
         },
         {
@@ -89,6 +153,14 @@
             "enabled": "true"
         },
         {
+            "name": "Flow Control",
+            "enabled": "true"
+        },
+        {
+            "name": "Force Fields",
+            "enabled": "true"
+        },
+        {
             "name": "Foreman",
             "enabled": "true"
         },
@@ -101,10 +173,6 @@
             "enabled": "true"
         },
         {
-            "name": "Landfill",
-            "enabled": "true"
-        },
-        {
             "name": "MeteVehicles",
             "enabled": "true"
         },
@@ -113,11 +181,15 @@
             "enabled": "true"
         },
         {
-            "name": "Reactors",
+            "name": "MoreLogisticsSlots",
             "enabled": "true"
         },
         {
-            "name": "replicators",
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "ShuttleTrain",
             "enabled": "true"
         },
         {
@@ -141,6 +213,10 @@
             "enabled": "true"
         },
         {
+            "name": "upgrade-planner",
+            "enabled": "true"
+        },
+        {
             "name": "VehicleGrids",
             "enabled": "true"
         },
@@ -157,7 +233,15 @@
             "enabled": "true"
         },
         {
+            "name": "Warehousing",
+            "enabled": "true"
+        },
+        {
             "name": "YARM",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_railway",
             "enabled": "true"
         },
         {
@@ -165,19 +249,7 @@
             "enabled": "true"
         },
         {
-            "name": "z_yira_american",
-            "enabled": "true"
-        },
-        {
-            "name": "z_yira_UP",
-            "enabled": "true"
-        },
-        {
             "name": "5dim_automatization",
-            "enabled": "true"
-        },
-        {
-            "name": "5dim_battlefield",
             "enabled": "true"
         },
         {
@@ -201,10 +273,6 @@
             "enabled": "true"
         },
         {
-            "name": "5dim_ores",
-            "enabled": "true"
-        },
-        {
             "name": "5dim_resources",
             "enabled": "true"
         },
@@ -217,11 +285,43 @@
             "enabled": "true"
         },
         {
+            "name": "aai-programmable-structures",
+            "enabled": "true"
+        },
+        {
+            "name": "andrew-library",
+            "enabled": "true"
+        },
+        {
+            "name": "electric-vehicles",
+            "enabled": "true"
+        },
+        {
             "name": "SpaceBook",
             "enabled": "true"
         },
         {
             "name": "yi_engines",
+            "enabled": "true"
+        },
+        {
+            "name": "z_yira_american",
+            "enabled": "true"
+        },
+        {
+            "name": "z_yira_UP",
+            "enabled": "true"
+        },
+        {
+            "name": "andrew-logistics",
+            "enabled": "true"
+        },
+        {
+            "name": "andrew-modules",
+            "enabled": "true"
+        },
+        {
+            "name": "andrew-plants",
             "enabled": "true"
         }
     ]
