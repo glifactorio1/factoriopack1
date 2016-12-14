@@ -13,10 +13,6 @@
             "enabled": "true"
         },
         {
-            "name": "Misanthrope",
-            "enabled": "true"
-        },
-        {
             "name": "rso-mod",
             "enabled": "true"
         },
@@ -117,6 +113,10 @@
             "enabled": "true"
         },
         {
+            "name": "clock",
+            "enabled": "true"
+        },
+        {
             "name": "compressor",
             "enabled": "true"
         },
@@ -134,6 +134,14 @@
         },
         {
             "name": "Electric Furnaces",
+            "enabled": "true"
+        },
+        {
+            "name": "Enhanced_Map_Colors",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
             "enabled": "true"
         },
         {
@@ -173,6 +181,14 @@
             "enabled": "true"
         },
         {
+            "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "LateUpgrades",
+            "enabled": "true"
+        },
+        {
             "name": "MeteVehicles",
             "enabled": "true"
         },
@@ -182,6 +198,10 @@
         },
         {
             "name": "MoreLogisticsSlots",
+            "enabled": "true"
+        },
+        {
+            "name": "peacemod",
             "enabled": "true"
         },
         {
@@ -213,6 +233,10 @@
             "enabled": "true"
         },
         {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
             "name": "upgrade-planner",
             "enabled": "true"
         },
@@ -238,10 +262,6 @@
         },
         {
             "name": "YARM",
-            "enabled": "true"
-        },
-        {
-            "name": "yi_railway",
             "enabled": "true"
         },
         {
@@ -297,19 +317,19 @@
             "enabled": "true"
         },
         {
+            "name": "Misanthrope",
+            "enabled": "true"
+        },
+        {
+            "name": "SmartTrains",
+            "enabled": "true"
+        },
+        {
             "name": "SpaceBook",
             "enabled": "true"
         },
         {
             "name": "yi_engines",
-            "enabled": "true"
-        },
-        {
-            "name": "z_yira_american",
-            "enabled": "true"
-        },
-        {
-            "name": "z_yira_UP",
             "enabled": "true"
         },
         {
