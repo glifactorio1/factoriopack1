@@ -205,6 +205,10 @@
             "enabled": "true"
         },
         {
+            "name": "replicators",
+            "enabled": "true"
+        },
+        {
             "name": "ShuttleTrain",
             "enabled": "true"
         },
