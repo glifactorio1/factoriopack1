@@ -1,0 +1,272 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_automatization",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_core",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_decoration",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_energy",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_logistic",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_mining",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_module",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_resources",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_transport",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_vehicle",
+            "enabled": "true"
+        },
+        {
+            "name": "air-filtering",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "Alien Oil",
+            "enabled": "true"
+        },
+        {
+            "name": "AlienWall",
+            "enabled": "true"
+        },
+        {
+            "name": "BigDrill",
+            "enabled": "true"
+        },
+        {
+            "name": "BigWoodenPowerPole",
+            "enabled": "true"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "Burner_Generator",
+            "enabled": "true"
+        },
+        {
+            "name": "Compression Chests",
+            "enabled": "true"
+        },
+        {
+            "name": "craftfaster",
+            "enabled": "true"
+        },
+        {
+            "name": "dark-matter-replicators",
+            "enabled": "true"
+        },
+        {
+            "name": "Diesel_Generator",
+            "enabled": "true"
+        },
+        {
+            "name": "eco-trees",
+            "enabled": "true"
+        },
+        {
+            "name": "endless-resources",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "Explosive Termites",
+            "enabled": "true"
+        },
+        {
+            "name": "Force Fields",
+            "enabled": "true"
+        },
+        {
+            "name": "greenhouse",
+            "enabled": "true"
+        },
+        {
+            "name": "Landfill",
+            "enabled": "true"
+        },
+        {
+            "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "LogicBelt",
+            "enabled": "true"
+        },
+        {
+            "name": "Minable Rock",
+            "enabled": "true"
+        },
+        {
+            "name": "Misanthrope",
+            "enabled": "true"
+        },
+        {
+            "name": "mocombat",
+            "enabled": "true"
+        },
+        {
+            "name": "mofarm",
+            "enabled": "true"
+        },
+        {
+            "name": "moindustry",
+            "enabled": "true"
+        },
+        {
+            "name": "mopower",
+            "enabled": "true"
+        },
+        {
+            "name": "Natural_Evolution_Enemies",
+            "enabled": "true"
+        },
+        {
+            "name": "OilSteamBoiler",
+            "enabled": "true"
+        },
+        {
+            "name": "Orbital Ion Cannon",
+            "enabled": "true"
+        },
+        {
+            "name": "radar-two",
+            "enabled": "true"
+        },
+        {
+            "name": "RAGE-Ore-Processing",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "false"
+        },
+        {
+            "name": "ShadowMegaModpack-Compatebility",
+            "enabled": "true"
+        },
+        {
+            "name": "SupremeWarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "Terraforming",
+            "enabled": "true"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "UraniumPower",
+            "enabled": "true"
+        },
+        {
+            "name": "usefulSpace",
+            "enabled": "true"
+        },
+        {
+            "name": "VoidChestInstant",
+            "enabled": "true"
+        },
+        {
+            "name": "Warehousing",
+            "enabled": "true"
+        },
+        {
+            "name": "YARM",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_engines",
+            "enabled": "true"
+        },
+        {
+            "name": "Yuoki",
+            "enabled": "true"
+        }
+    ]
+}
