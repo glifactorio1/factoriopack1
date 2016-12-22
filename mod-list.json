@@ -1,0 +1,112 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "true"
+        },
+        {
+            "name": "VehiclesEquipement",
+            "enabled": "true"
+        },
+        {
+            "name": "advanced-logistics-system",
+            "enabled": "true"
+        },
+        {
+            "name": "arumbalights",
+            "enabled": "true"
+        },
+        {
+            "name": "auto-research",
+            "enabled": "true"
+        },
+        {
+            "name": "AutoDeconstruct",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "AutoTrash",
+            "enabled": "true"
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "Crafting_Speed_Research",
+            "enabled": "true"
+        },
+        {
+            "name": "Expanded_Robot_Tech",
+            "enabled": "true"
+        },
+        {
+            "name": "Foreman",
+            "enabled": "true"
+        },
+        {
+            "name": "ItemCount",
+            "enabled": "true"
+        },
+        {
+            "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "launch-control",
+            "enabled": "true"
+        },
+        {
+            "name": "long-reach",
+            "enabled": "true"
+        },
+        {
+            "name": "longer-belts-redux",
+            "enabled": "true"
+        },
+        {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "Robot_Cleanup",
+            "enabled": "true"
+        },
+        {
+            "name": "RSORadar",
+            "enabled": "true"
+        },
+        {
+            "name": "SmallFixes",
+            "enabled": "true"
+        },
+        {
+            "name": "Squeak Through",
+            "enabled": "true"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "upgrade-planner",
+            "enabled": "true"
+        },
+        {
+            "name": "YARM",
+            "enabled": "true"
+        }
+    ]
+}
