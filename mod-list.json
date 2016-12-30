@@ -1,0 +1,304 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "blueprint-string",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "true"
+        },
+        {
+            "name": "TheFatController",
+            "enabled": "true"
+        },
+        {
+            "name": "VehiclesEquipement",
+            "enabled": "true"
+        },
+        {
+            "name": "what-is-it-used-for",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_core",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-signals",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-chaingunner",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-flame-tumbler",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-hauler",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-laser-tank",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-miner",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-zones",
+            "enabled": "true"
+        },
+        {
+            "name": "AllFluids",
+            "enabled": "true"
+        },
+        {
+            "name": "auto-research",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "BlackMarket",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobinserters",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "clock",
+            "enabled": "true"
+        },
+        {
+            "name": "eco-trees",
+            "enabled": "true"
+        },
+        {
+            "name": "Electric Furnaces",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "Factorissimo",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "Fastforward-Start",
+            "enabled": "true"
+        },
+        {
+            "name": "FLAN",
+            "enabled": "true"
+        },
+        {
+            "name": "Flow Control",
+            "enabled": "true"
+        },
+        {
+            "name": "Foreman",
+            "enabled": "true"
+        },
+        {
+            "name": "ItemCount",
+            "enabled": "true"
+        },
+        {
+            "name": "LateUpgrades",
+            "enabled": "true"
+        },
+        {
+            "name": "launch-control",
+            "enabled": "true"
+        },
+        {
+            "name": "long-reach",
+            "enabled": "true"
+        },
+        {
+            "name": "MeteVehicles",
+            "enabled": "true"
+        },
+        {
+            "name": "mini-machines",
+            "enabled": "true"
+        },
+        {
+            "name": "MoreLogisticsSlots",
+            "enabled": "true"
+        },
+        {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "replicators",
+            "enabled": "true"
+        },
+        {
+            "name": "ShuttleTrain",
+            "enabled": "true"
+        },
+        {
+            "name": "Squeak Through",
+            "enabled": "true"
+        },
+        {
+            "name": "TimeTools",
+            "enabled": "true"
+        },
+        {
+            "name": "TombStones",
+            "enabled": "true"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "upgrade-planner",
+            "enabled": "true"
+        },
+        {
+            "name": "VehicleGrids",
+            "enabled": "true"
+        },
+        {
+            "name": "VehicleSnap",
+            "enabled": "true"
+        },
+        {
+            "name": "Vehicle Wagon",
+            "enabled": "true"
+        },
+        {
+            "name": "Vehicle_Radar",
+            "enabled": "true"
+        },
+        {
+            "name": "Warehousing",
+            "enabled": "true"
+        },
+        {
+            "name": "YARM",
+            "enabled": "true"
+        },
+        {
+            "name": "Yuoki",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_automatization",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_decoration",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_energy",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_logistic",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_mining",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_module",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_resources",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_transport",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_vehicle",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-programmable-structures",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "andrew-library",
+            "enabled": "true"
+        },
+        {
+            "name": "bobgreenhouse",
+            "enabled": "true"
+        },
+        {
+            "name": "Misanthrope",
+            "enabled": "true"
+        },
+        {
+            "name": "SmartTrains",
+            "enabled": "true"
+        },
+        {
+            "name": "SpaceBook",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_engines",
+            "enabled": "true"
+        },
+        {
+            "name": "andrew-logistics",
+            "enabled": "true"
+        },
+        {
+            "name": "andrew-modules",
+            "enabled": "true"
+        },
+        {
+            "name": "boxing-2",
+            "enabled": "true"
+        },
+        {
+            "name": "andrew-plants",
+            "enabled": "true"
+        }
+    ]
+}
