@@ -1,6 +1,10 @@
 {
     "mods": [
         {
+            "name": "autocraft",
+            "enabled": "true"
+        },
+        {
             "name": "base",
             "enabled": "true"
         },
@@ -69,6 +73,10 @@
             "enabled": "true"
         },
         {
+            "name": "beltplanner",
+            "enabled": "true"
+        },
+        {
             "name": "BlackMarket",
             "enabled": "true"
         },
@@ -90,6 +98,10 @@
         },
         {
             "name": "clock",
+            "enabled": "true"
+        },
+        {
+            "name": "compressor",
             "enabled": "true"
         },
         {
@@ -145,6 +157,10 @@
             "enabled": "true"
         },
         {
+            "name": "manual-inventory-sort",
+            "enabled": "true"
+        },
+        {
             "name": "MeteVehicles",
             "enabled": "true"
         },
@@ -173,6 +189,10 @@
             "enabled": "true"
         },
         {
+            "name": "tanks_for_bob",
+            "enabled": "true"
+        },
+        {
             "name": "TimeTools",
             "enabled": "true"
         },
@@ -182,6 +202,10 @@
         },
         {
             "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "Upgrade",
             "enabled": "true"
         },
         {
@@ -290,10 +314,6 @@
         },
         {
             "name": "andrew-modules",
-            "enabled": "true"
-        },
-        {
-            "name": "boxing-2",
             "enabled": "true"
         },
         {
