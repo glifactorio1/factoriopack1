@@ -3,6 +3,130 @@
         {
             "name": "base",
             "enabled": "true"
+        },
+        {
+            "name": "blueprint-string",
+            "enabled": "true"
+        },
+        {
+            "name": "VehiclesEquipement",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_core",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-signals",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-chaingunner",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-flame-tumbler",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-hauler",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-laser-tank",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-vehicles-miner",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-zones",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "auto-research",
+            "enabled": "true"
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "Factorissimo2",
+            "enabled": "true"
+        },
+        {
+            "name": "TimeTools",
+            "enabled": "true"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "VehicleGrids",
+            "enabled": "true"
+        },
+        {
+            "name": "VehicleSnap",
+            "enabled": "true"
+        },
+        {
+            "name": "Vehicle Wagon",
+            "enabled": "true"
+        },
+        {
+            "name": "Vehicle_Radar",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_automatization",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_decoration",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_energy",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_logistic",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_mining",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_module",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_resources",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_transport",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_vehicle",
+            "enabled": "true"
+        },
+        {
+            "name": "aai-programmable-structures",
+            "enabled": "true"
+        },
+        {
+            "name": "SpaceBook",
+            "enabled": "true"
         }
     ]
 }
